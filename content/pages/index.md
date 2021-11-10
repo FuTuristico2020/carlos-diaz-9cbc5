@@ -61,7 +61,7 @@ sections:
     subtitle: What I do
     features:
       - title: marketing
-        subtitle: 'Redes sociales, presencia online'
+        subtitle: 'Redes sociales, presencia online y campañas'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
