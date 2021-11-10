@@ -22,16 +22,17 @@ sections:
       ### Propuesta
 
 
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
+      El presupuesto de tu proyecto dependerá de la cantidad de servicios que
+      necesites y las horas para ejecutarlo.  Tu propuesta tendrá un tiempo
+      límite estipulado que coincida con la realidad de tu proyecto, eso será
+      acordado antes de empezar con las actividades.
 
 
-      ### Terms
+      Términos
 
 
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
+      Al momento de empezar a trabajar con tu propuesta se necesitará un
+      adelanto monetario dependiendo de las variables anteriores.
     content_align: left
     form_position: left
     form_width: fifty
