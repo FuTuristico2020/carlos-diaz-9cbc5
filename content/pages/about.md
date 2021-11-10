@@ -28,19 +28,16 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
 ![A woman using a laptop](/images/about.jpg)
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+El amor al turismo me ha llevado a conocer y a entender la complejidad que tiene esta industria a diferencia del resto. Por esto me gusta ayudar a las personas que quieran ser parte de esta industria a tener éxito es sus proyectos, usando diferentes herramientas de análisis y marketing.
 
-## Credentials
+## Acreditaciones
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+Soy administrador de empresas turísticas y hoteleras de la universidad Externado de Colombia, cuento con una maestría en gestión de eventos de la Universidad de Greenwich en Inglaterra y me encuentro cursando mi último año de Doctorado en Turismo en la Universidad de Alicante en España.
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+## Experiencia en la industria
 
+Cuento con mas de 10 años de experiencia profesional y académica en diversos campos de la industria como  hoteles, agencias operadoras, marketing turístico, proyectos del sector público. En los últimos 4 años me he dedicado a la docencia como profesor de hotelería y marketing, lo que me ha permitido mantenerme a la vanguardia.
 
-
-## Writing for Action
-
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+He participado cómo investigador en diferentes congresos y seminarios a nivel nacional e internacional cómo conferencista, entre estos eventos está International *Conference on Tourism, Technology & Systems*
