@@ -21,8 +21,8 @@ sections:
     background_image_opacity: 75
     has_border: true
     subtitle: >-
-      y te ayudaré a poterciar ese proyecto o emprendimiento turísticoque tanto
-      te apasiona, cuenta conmigo para lograrlo.
+      y te ayudaré a potenciar ese proyecto o emprendimiento turístico que tanto
+      te apasiona. Cuenta conmigo para lograrlo.
     background_image_position: left top
   - type: grid_section
     title: Trusted by Companies Big and Small
