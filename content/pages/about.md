@@ -1,5 +1,5 @@
 ---
-title: Quien soy?
+title: ¿Quién soy?
 seo:
   title: About
   description: This is the about page
