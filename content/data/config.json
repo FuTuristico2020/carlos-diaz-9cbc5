@@ -33,7 +33,7 @@
     "footer": {
         "logo": "/images/Logo complementario-5975cd8a.png",
         "logo_alt": "Logo Carlos Diaz Consultor",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "About",
