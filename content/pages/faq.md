@@ -54,7 +54,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: none
+    background_color: primary
     background_image: /images/Patrones (2)-f8e7c220.png
     background_image_repeat: repeat
     background_image_size: contain
