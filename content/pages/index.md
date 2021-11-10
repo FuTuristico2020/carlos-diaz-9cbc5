@@ -20,7 +20,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     has_border: true
-    subtitle: j
+    subtitle: Soy experto en turismo
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
