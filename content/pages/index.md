@@ -21,7 +21,7 @@ sections:
     background_image: /images/Patrones (2).png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 0
+    background_image_opacity: 8
     has_border: true
   - type: grid_section
     title: Trusted by Companies Big and Small
