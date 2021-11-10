@@ -79,7 +79,7 @@
             {
                 "label": "Instagram",
                 "url": "https://instagram.com/",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "center",
