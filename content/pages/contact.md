@@ -28,7 +28,7 @@ sections:
       acordado antes de empezar con las actividades.
 
 
-      Términos
+      # Términos
 
 
       Al momento de empezar a trabajar con tu propuesta se necesitará un
