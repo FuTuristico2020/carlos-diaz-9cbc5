@@ -75,7 +75,7 @@ sections:
             icon_position: right
         image: /images/Marketing_Monochromatic.png
         image_alt: Feature 1 illustration
-        media_position: right
+        media_position: top
         media_width: sixty
         align: left
       - title: Online Store Management
