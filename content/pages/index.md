@@ -16,7 +16,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/Patrones (4).png
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 75
     has_border: true
