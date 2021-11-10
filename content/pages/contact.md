@@ -19,7 +19,7 @@ sections:
       y te daré el presupuesto.
 
 
-      ### Propuesta
+      ## Propuesta
 
 
       El presupuesto de tu proyecto dependerá de la cantidad de servicios que
