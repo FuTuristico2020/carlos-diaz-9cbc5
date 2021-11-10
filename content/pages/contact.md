@@ -9,18 +9,25 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Pricing
+    content: >
+      ## Precios
 
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details. 
 
-      ### Proposal
+      El precio de la consultoría se define por la cantidad de horas que el
+      proyecto necesite. Si necesitas conocer el presupuesto a detalle,
+      escríbeme un mensaje con tu propuesta y los servicios que vas a contratar
+      y te daré el presupuesto.
+
+
+      ### Propuesta
+
 
       Your proposal will include several choices in terms of pricing structure
       and deliverable timeline.
 
+
       ### Terms
+
 
       If at any point you'd like to cancel our project, you are required to
       provide a 30-day written notice, after which I will transfer all of your
