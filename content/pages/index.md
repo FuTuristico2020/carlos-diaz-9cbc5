@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hola, soy Carlos Diaz y soy consultor turístico'
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: hola
     actions:
       - label: Contact Me
         url: /contact
