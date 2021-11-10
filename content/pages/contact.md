@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contáctame
-    subtitle: Llena el siguiente formulario y estaremos en contacto en un día hábil
+    subtitle: Llena el siguiente formulario y pronto estaremos en contacto
     align: center
     padding_top: medium
     padding_bottom: medium
