@@ -40,7 +40,7 @@
                 "url": "/about",
                 "style": "link",
                 "has_icon": false,
-                "icon_position": "left"
+                "icon_position": "center"
             },
             {
                 "label": "FAQ",
