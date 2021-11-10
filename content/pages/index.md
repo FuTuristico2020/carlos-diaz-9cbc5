@@ -18,7 +18,7 @@ sections:
     background_image: /images/Patrones (2).png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 0
+    background_image_opacity: 75
     has_border: true
     subtitle: "Te ayudaré a mejorar y potenciar\_ese proyecto, emprendimiento\_o actividad turística que estés construyendo y lograr tus objetivos"
   - type: grid_section
