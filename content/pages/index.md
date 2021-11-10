@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Hola, soy Carlos Diaz y soy consultor turístico'
     actions:
-      - label: Contact Me
+      - label: Contáctame
         url: /contact
         style: primary
     image: images/hero.png
