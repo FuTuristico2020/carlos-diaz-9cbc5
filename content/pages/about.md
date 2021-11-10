@@ -38,6 +38,6 @@ Soy administrador de empresas turísticas y hoteleras de la universidad Externad
 
 ## Experiencia en la industria
 
-Cuento con mas de 10 años de experiencia profesional y académica en diversos campos de la industria como  hoteles, agencias operadoras, marketing turístico, proyectos del sector público. En los últimos 4 años me he dedicado a la docencia como profesor de hotelería y marketing, lo que me ha permitido mantenerme a la vanguardia.
+Cuento con mas de 10 años de experiencia profesional y académica en diversos campos de la industria como lo son hoteles, agencias operadoras, marketing turístico, proyectos del sector público. En los últimos 4 años me he dedicado a la docencia como profesor de hotelería y marketing, lo que me ha permitido mantenerme a la vanguardia.
 
 He participado cómo investigador en diferentes congresos y seminarios a nivel nacional e internacional cómo conferencista, entre estos eventos está International *Conference on Tourism, Technology & Systems*
