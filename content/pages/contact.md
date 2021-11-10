@@ -44,7 +44,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: textarea
-        name: messageT
+        name: Tu mensaje
         label: Mensaje
         default_value: Your message
       - input_type: checkbox
