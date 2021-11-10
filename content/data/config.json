@@ -25,7 +25,7 @@
             {
                 "label": "Contáctame",
                 "url": "/contact",
-                "style": "link"
+                "style": "primary"
             }
         ],
         "has_secondary_nav": false
