@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hola, soy Carlos Diaz y soy consultor turístico'
-    subtitle: hola
     actions:
       - label: Contact Me
         url: /contact
