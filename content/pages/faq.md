@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     title: Preguntas frecuentes
-    subtitle: My answers
+    subtitle: Mis respuestas
     align: center
     padding_top: medium
     padding_bottom: small
