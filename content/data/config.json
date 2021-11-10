@@ -64,7 +64,7 @@
                 "style": "primary",
                 "has_icon": true,
                 "icon": "twitter",
-                "icon_position": "center",
+                "icon_position": "left",
                 "new_window": true
             },
             {
