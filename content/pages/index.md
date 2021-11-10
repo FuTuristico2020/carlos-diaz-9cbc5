@@ -93,7 +93,7 @@ sections:
             icon_position: right
         image: /images/Data analytics _Monochromatic.png
         image_alt: Feature 2 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
         align: left
       - title: Technical Content
