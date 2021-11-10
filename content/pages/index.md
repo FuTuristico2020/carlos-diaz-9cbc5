@@ -77,7 +77,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-        align: center
+        align: left
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
