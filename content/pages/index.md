@@ -20,7 +20,9 @@ sections:
     background_image_size: cover
     background_image_opacity: 75
     has_border: true
-    subtitle: "Te ayudaré a mejorar y potenciar\_ese proyecto, emprendimiento\_o actividad turística que estés construyendo y lograr tus objetivos"
+    subtitle: >-
+      y te ayudaré a poterciar ese proyecto o emprendimiento turísticoque tanto
+      te apasiona, cuenta conmigo para lograrlo.
     background_image_position: left top
   - type: grid_section
     title: Trusted by Companies Big and Small
