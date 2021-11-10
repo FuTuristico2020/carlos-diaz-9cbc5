@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![A woman using a laptop](/images/about.jpg)
+# ![A woman using a laptop](/images/about.jpg)
 
 El amor al turismo me ha llevado a conocer y a entender la complejidad que tiene esta industria a diferencia del resto. Por esto me gusta ayudar a las personas que quieran ser parte del turismo a tener éxito es sus proyectos, usando diferentes herramientas de análisis y marketing.
 
