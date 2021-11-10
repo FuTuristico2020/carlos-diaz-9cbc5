@@ -62,10 +62,10 @@ sections:
     features:
       - title: marketing
         subtitle: 'Redes sociales, presencia online y campañas publicitarias'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Te ayudaré a manejar canales digitales como las redes sociales para
+          consolidar tu presencia en línea. Aprenderás la importancia de las
+          pautas publicitarias y a implementarlas en tus campañas.
         actions:
           - label: See Writing Samples
             url: /faq
