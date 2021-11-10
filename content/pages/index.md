@@ -20,6 +20,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     has_border: true
+    subtitle: jjp
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
