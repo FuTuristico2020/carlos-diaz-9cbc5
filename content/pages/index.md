@@ -71,7 +71,7 @@ sections:
            
         actions:
           - label: Quiero saber más
-            url: /faq
+            url: /MKT
             style: primary
             has_icon: true
             icon: arrow-right
