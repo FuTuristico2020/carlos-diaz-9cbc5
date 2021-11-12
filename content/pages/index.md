@@ -208,7 +208,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: secondary
-    background_image: /images/Patrones (1)-836a867b.png
+    background_image: /images/Patrones (2)-9d262122.png
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 70
