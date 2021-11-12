@@ -99,7 +99,7 @@ sections:
         media_position: left
         media_width: sixty
         align: left
-      - title: Technical Content
+      - title: Capacitaciones
         subtitle: 'Your products and services, at scale.'
         content: >-
           I will dive into the ins and outs of your product or service and make
