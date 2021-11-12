@@ -89,7 +89,7 @@ sections:
           buscar soluciones para fortalecer y potenciar tu empresa.
         actions:
           - label: Learn More
-            url: /analisi
+            url: /analisis-y-diseno
             style: secondary
             has_icon: true
             icon: arrow-right
