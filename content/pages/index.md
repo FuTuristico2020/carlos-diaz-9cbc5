@@ -164,7 +164,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: primary
-    background_image: /images/Patrones (3)-cae7f11c.png
+    background_image: /images/Patrones (1)-d74773c7.png
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 100
