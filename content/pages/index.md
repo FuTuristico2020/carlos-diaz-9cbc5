@@ -211,7 +211,7 @@ sections:
     background_image: /images/Patrones (2)-9d262122.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 1000
+    background_image_opacity: 100
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
