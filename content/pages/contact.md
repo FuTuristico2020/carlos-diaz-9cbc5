@@ -24,8 +24,8 @@ sections:
 
       El presupuesto de tu proyecto dependerá de la cantidad de servicios que
       necesites y las horas para ejecutarlo.  Tu propuesta tendrá un tiempo
-      límite estipulado que coincida con la realidad de tu proyecto, eso será
-      acordado antes de empezar con las actividades.
+      límite estipulado  de entrega que coincida con la realidad de tu proyecto.
+      Esto será acordado antes de empezar con las actividades.
 
 
       ## Términos
