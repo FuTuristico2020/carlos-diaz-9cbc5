@@ -83,10 +83,10 @@ sections:
         align: left
       - title: Análisis y diseño
         subtitle: Análisis y evaluación de proyecto
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Te ayudaré a diseñas, ejecutar y evaluar tu proyecto turístico. Además
+          un análisis interno para identificar los puntos débiles y buscar
+          soluciones para fortalecer y potenciar tu empresa.
         actions:
           - label: Learn More
             url: /about
