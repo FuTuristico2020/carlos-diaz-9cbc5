@@ -5,7 +5,7 @@ sections:
     title: Gracias
     subtitle: "Gracias por contactarme. Pronto estaremos en contacto.\_ \_ \_ \_ \_ \_ \_Que tengas un increíble día!"
     actions:
-      - label: Back to homepage
+      - label: Volver al inicio
         url: /
         style: primary
         has_icon: true
