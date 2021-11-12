@@ -167,7 +167,7 @@ sections:
     background_image: /images/Patrones (1)-1283d1e4.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 12
+    background_image_opacity: 70
   - type: form_section
     content: >-
       ## Let's talk
