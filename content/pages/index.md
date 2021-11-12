@@ -58,7 +58,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: My services
-    subtitle: What I do
+    subtitle: Que puedo hacer por ti
     features:
       - title: marketing
         subtitle: 'Redes sociales, presencia online y campañas publicitarias'
