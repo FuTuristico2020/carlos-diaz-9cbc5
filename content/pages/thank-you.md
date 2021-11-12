@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for contacting me. I will get back in touch with you soon. Have a great day!
+      Gracias por contactarme. Pronto estaremos en contacto. Que tengas un
+      increíble día!
     actions:
       - label: Back to homepage
         url: /
