@@ -200,8 +200,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Acepto que este formulario está almacenando mi información para ser
+          contactado
         is_required: true
     submit_label: Send Message
     align_vert: top
