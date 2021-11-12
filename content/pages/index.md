@@ -60,7 +60,7 @@ sections:
     title: Mis servicios
     subtitle: Que puedo hacer por ti
     features:
-      - title: marketing
+      - title: Marketing
         subtitle: 'Redes sociales, presencia online y campañas publicitarias'
         content: >
           Te ayudaré a administrar de forma efectiva los canales digitales cómo
