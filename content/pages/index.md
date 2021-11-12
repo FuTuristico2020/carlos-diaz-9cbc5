@@ -101,10 +101,9 @@ sections:
         align: left
       - title: Capacitaciones
         subtitle: Prepara a tu equipo de trabajo
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Tus colaboradores serán capacitados en temas cómo servicio al cliente,
+          inglés técnico orientado al servicio, técnicas de ventas y marketing. 
         actions:
           - label: See Past Work
             url: /faq
