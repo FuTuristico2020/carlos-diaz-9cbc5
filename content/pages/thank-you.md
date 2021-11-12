@@ -2,7 +2,7 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Gracias
     subtitle: "Gracias por contactarme. Pronto estaremos en contacto.\_ \_ \_ \_ \_ \_ \_ Que tengas un increíble día!"
     actions:
       - label: Back to homepage
