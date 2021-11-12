@@ -70,7 +70,7 @@ sections:
 
            
         actions:
-          - label: See Writing Samples
+          - label: Quiero saber más
             url: /faq
             style: primary
             has_icon: true
