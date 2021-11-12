@@ -100,7 +100,7 @@ sections:
         media_width: sixty
         align: left
       - title: Capacitaciones
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Prepara a tu equipo de trabajo
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
