@@ -63,9 +63,12 @@ sections:
       - title: marketing
         subtitle: 'Redes sociales, presencia online y campañas publicitarias'
         content: >
-          Te ayudaré a manejar canales digitales como las redes sociales para
-          consolidar tu presencia en línea. Aprenderás la importancia de las
-          pautas publicitarias y a implementarlas en tus campañas.
+          Te ayudaré a administrar de forma efectiva los canales digitales cómo
+          redes sociales y consolidar tu presencia en línea. Aprenderás la
+          importancia de las pautas publicitarias y a implementarlas en tus
+          campañas.
+
+           
         actions:
           - label: See Writing Samples
             url: /faq
