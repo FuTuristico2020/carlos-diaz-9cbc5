@@ -163,7 +163,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: primary
+    background_color: none
     background_image: /images/Patrones (2)-ebfceb4a.png
     background_image_repeat: repeat
     background_image_size: contain
