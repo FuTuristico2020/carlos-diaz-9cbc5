@@ -84,9 +84,9 @@ sections:
       - title: Análisis y diseño
         subtitle: Análisis y evaluación de proyecto
         content: >
-          Te ayudaré a diseñas, ejecutar y evaluar tu proyecto turístico. Además
-          un análisis interno para identificar los puntos débiles y buscar
-          soluciones para fortalecer y potenciar tu empresa.
+          Te ayudaré a diseñar, ejecutar y evaluar tu proyecto turístico. Además
+          de hacer un análisis interno para identificar los puntos débiles y
+          buscar soluciones para fortalecer y potenciar tu empresa.
         actions:
           - label: Learn More
             url: /about
