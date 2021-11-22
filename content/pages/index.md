@@ -33,7 +33,7 @@ sections:
         image_alt: Logo casa maestra
         image_align: center
       - image: /images/camara_de_comercio__1_-removebg-preview.png
-        image_alt: Logo 2
+        image_alt: Logo Cámara de comercio bucaramanga
         image_align: center
       - image: /images/dann-removebg-preview.png
         image_alt: Logo 3
