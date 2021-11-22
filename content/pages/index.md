@@ -35,7 +35,7 @@ sections:
       - image: /images/camara_de_comercio__1_-removebg-preview.png
         image_alt: Logo 2
         image_align: center
-      - image: /images/casa_maestra__1_-removebg-preview.png
+      - image: /images/dann-removebg-preview.png
         image_alt: Logo 3
         image_align: center
         image_position: top
