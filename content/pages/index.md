@@ -35,7 +35,7 @@ sections:
       - image: /images/casa_100_50-removebg-preview.png
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: /images/casa100__1_-removebg-preview.png
         image_alt: Logo 3
         image_align: center
       - image: images/logo-4.svg
