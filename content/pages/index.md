@@ -50,7 +50,7 @@ sections:
         image_align: center
         image_position: left
       - image: /images/unab__1_-removebg-preview-d3fd662d.png
-        image_alt: Logo 6
+        image_alt: Logo unab
         image_align: center
       - image_alt: Logo 7
         image_align: center
