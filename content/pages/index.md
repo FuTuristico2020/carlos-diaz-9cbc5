@@ -30,7 +30,7 @@ sections:
     align: center
     grid_items:
       - image: /images/casa_maestra-removebg-preview-6cd97b21.png
-        image_alt: Logo 1
+        image_alt: Logo casa maestra
         image_align: center
       - image: /images/camara_de_comercio__1_-removebg-preview.png
         image_alt: Logo 2
