@@ -44,7 +44,7 @@ sections:
         image_has_padding: false
         image_width: twenty-five
         image_position: left
-        image: /images/Diseño_sin_título-removebg-preview.png
+        image: /images/futuristico-removebg-preview.png
       - image: /images/sol_y_luna-removebg-preview.png
         image_alt: Logo 5
         image_align: center
