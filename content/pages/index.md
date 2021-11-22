@@ -53,6 +53,7 @@ sections:
       - image: /images/sol_y_luna-removebg-preview-447d0d93.png
         image_alt: Logo 7
         image_align: center
+        image_position: right
       - image: images/logo-8.svg
         image_alt: Logo 8
         image_align: center
