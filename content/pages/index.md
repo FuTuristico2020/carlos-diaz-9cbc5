@@ -32,7 +32,7 @@ sections:
       - image: /images/casa100-removebg-preview.png
         image_alt: Logo 1
         image_align: center
-      - image: images/logo-2.svg
+      - image: /images/casa_100_50-removebg-preview.png
         image_alt: Logo 2
         image_align: center
       - image: images/logo-3.svg
