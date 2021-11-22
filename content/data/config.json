@@ -51,7 +51,8 @@
             {
                 "label": "Contact me",
                 "url": "/contact",
-                "style": "secondary"
+                "style": "secondary",
+                "icon_position": "center"
             }
         ],
         "has_secondary_nav": true,
