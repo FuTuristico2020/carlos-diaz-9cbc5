@@ -47,6 +47,7 @@ sections:
       - image: /images/sol_y_luna-removebg-preview.png
         image_alt: Logo 5
         image_align: left
+        image_position: bottom
       - image: /images/unab__1_-removebg-preview-d3fd662d.png
         image_alt: Logo 6
         image_align: center
