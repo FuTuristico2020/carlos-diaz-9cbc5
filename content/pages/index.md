@@ -59,6 +59,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    background_image_position: left center
   - type: features_section
     title: Mis servicios
     subtitle: Que puedo hacer por ti
