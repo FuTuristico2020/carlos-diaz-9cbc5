@@ -25,7 +25,7 @@ sections:
       te apasiona. Cuenta conmigo para lograrlo.
     background_image_position: left top
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: Empresas y proyectos en los que he trabajado
     subtitle: Who I work with
     align: center
     grid_items:
