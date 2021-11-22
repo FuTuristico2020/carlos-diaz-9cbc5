@@ -50,8 +50,7 @@ sections:
       - image: /images/unab__1_-removebg-preview-d3fd662d.png
         image_alt: Logo 6
         image_align: center
-      - image: /images/sol_y_luna-removebg-preview-447d0d93.png
-        image_alt: Logo 7
+      - image_alt: Logo 7
         image_align: center
         image_position: right
       - image_alt: Logo 8
