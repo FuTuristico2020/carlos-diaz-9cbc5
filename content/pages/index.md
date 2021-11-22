@@ -29,7 +29,7 @@ sections:
     subtitle: Who I work with
     align: center
     grid_items:
-      - image: /images/casa100-removebg-preview.png
+      - image: /images/casa_maestra-removebg-preview-6cd97b21.png
         image_alt: Logo 1
         image_align: center
       - image: /images/casa_100_50-removebg-preview.png
