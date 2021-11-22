@@ -27,7 +27,7 @@ sections:
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
-    align: left
+    align: center
     grid_items:
       - image: /images/casa_maestra-removebg-preview-6cd97b21.png
         image_alt: Logo 1
