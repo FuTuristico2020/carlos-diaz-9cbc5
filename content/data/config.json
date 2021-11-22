@@ -46,7 +46,7 @@
             {
                 "label": "Preguntas frecuentes",
                 "url": "/faq",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Contact me",
