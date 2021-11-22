@@ -210,7 +210,7 @@ sections:
           Acepto que este formulario está almacenando mi información para ser
           contactado
         is_required: true
-    submit_label: Enviar
+    submit_label: Enviar mensaje
     align_vert: top
     padding_top: medium
     padding_bottom: medium
