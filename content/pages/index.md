@@ -112,7 +112,7 @@ sections:
           Tus colaboradores serán capacitados en temas cómo servicio al cliente,
           inglés técnico orientado al servicio, técnicas de ventas y marketing. 
         actions:
-          - label: See Past Work
+          - label: Quiero saber más
             url: /faq
             style: primary
             has_icon: true
