@@ -52,7 +52,7 @@
                 "label": "Contact me",
                 "url": "/contact",
                 "style": "secondary",
-                "icon_position": "center"
+                "icon_position": "left"
             }
         ],
         "has_secondary_nav": true,
