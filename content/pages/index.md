@@ -43,6 +43,7 @@ sections:
         image_alt: Logo 4
         image_align: center
         image_has_padding: false
+        image_width: sixty
       - image: images/logo-5.svg
         image_alt: Logo 5
         image_align: center
