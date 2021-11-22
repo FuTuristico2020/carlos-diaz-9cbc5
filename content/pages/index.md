@@ -39,8 +39,7 @@ sections:
         image_alt: Logo 3
         image_align: center
         image_position: top
-      - image: /images/unab__1_-removebg-preview.png
-        image_alt: Logo 4
+      - image_alt: Logo 4
         image_align: center
         image_has_padding: false
         image_width: twenty-five
