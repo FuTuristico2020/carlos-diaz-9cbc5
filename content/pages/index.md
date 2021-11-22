@@ -32,7 +32,7 @@ sections:
       - image: /images/casa_color-removebg-preview.png
         image_alt: Logo 1
         image_align: center
-      - image: /images/camara_de_comercio__1_-removebg-preview.png
+      - image: /images/sol_color-removebg-preview.png
         image_alt: Logo 2
         image_align: center
       - image: /images/dann-removebg-preview.png
