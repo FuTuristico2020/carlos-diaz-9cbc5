@@ -87,7 +87,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-        align: left
+        align: right
       - title: Análisis y diseño
         subtitle: Análisis y evaluación de proyecto
         content: >
