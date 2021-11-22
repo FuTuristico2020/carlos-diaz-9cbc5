@@ -181,7 +181,7 @@ sections:
 
 
       Si deseas conocer más información sobre mis servicios y precios,
-      contáctame llenando el siguiente formulario con tus datos.
+      contáctame llenando el siguiente formulario con tus dato.s
     content_align: left
     form_position: right
     form_width: fifty
