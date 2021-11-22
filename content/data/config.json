@@ -39,7 +39,7 @@
             {
                 "label": "Sobre mi",
                 "url": "/about",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon_position": "left"
             },
