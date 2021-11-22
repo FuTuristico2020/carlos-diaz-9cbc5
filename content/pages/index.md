@@ -46,7 +46,7 @@ sections:
         image_position: left
         image: /images/futuristico-removebg-preview.png
       - image: /images/sol_y_luna-removebg-preview.png
-        image_alt: Logo 5
+        image_alt: Logo sol y luna
         image_align: center
         image_position: left
       - image: /images/unab__1_-removebg-preview-d3fd662d.png
