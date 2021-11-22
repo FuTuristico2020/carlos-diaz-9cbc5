@@ -95,7 +95,7 @@ sections:
           de hacer un análisis interno para identificar los puntos débiles y
           buscar soluciones para fortalecer y potenciar tu empresa.
         actions:
-          - label: Learn More
+          - label: Quiero saber más
             url: /analisis-y-diseno
             style: secondary
             has_icon: true
