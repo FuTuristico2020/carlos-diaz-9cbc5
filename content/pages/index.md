@@ -205,7 +205,7 @@ sections:
         label: Mensaje
         default_value: Your message
       - input_type: checkbox
-        name: consent
+        name: consentimiento
         label: >-
           Acepto que este formulario está almacenando mi información para ser
           contactado
