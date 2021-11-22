@@ -36,7 +36,7 @@ sections:
         image_alt: Logo Cámara de comercio bucaramanga
         image_align: center
       - image: /images/dann-removebg-preview.png
-        image_alt: Logo 3
+        image_alt: Logo Dann Carlton
         image_align: center
         image_position: top
       - image_alt: Logo 4
