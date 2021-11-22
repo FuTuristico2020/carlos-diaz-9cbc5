@@ -16,7 +16,7 @@
                 "label": "Sobre mí",
                 "url": "/about",
                 "style": "secondary",
-                "has_icon": true
+                "has_icon": false
             },
             {
                 "label": "Preguntas frecuentes",
