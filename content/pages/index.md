@@ -45,7 +45,7 @@ sections:
         image_has_padding: false
         image_width: twenty-five
         image_position: left
-      - image: images/logo-5.svg
+      - image: /images/sol_y_luna-removebg-preview.png
         image_alt: Logo 5
         image_align: center
       - image: images/logo-6.svg
