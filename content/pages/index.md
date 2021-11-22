@@ -57,7 +57,7 @@ sections:
       - image_alt: Logo 8
         image_align: center
     grid_cols: three
-    grid_gap_horiz: small
+    grid_gap_horiz: medium
     grid_gap_vert: small
     background_image_position: left center
     padding_top: none
