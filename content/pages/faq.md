@@ -11,12 +11,12 @@ sections:
   - type: grid_section
     grid_items:
       - title: What is your process?
-        content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
+        content: >+
+          Buscamos ayudar a todas las empresas del sector turismo según sean sus
+          necesidades. Estas empresas son: hoteles (de todas las
+          tipologías),restaurantes, agencias de viajes, proyectos turísticos,
+          trabajo con el sector público, entre muchos más.
+
       - title: ¿Cómo se determina el proceso de la consultoría?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
