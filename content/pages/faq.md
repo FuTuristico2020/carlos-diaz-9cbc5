@@ -26,11 +26,12 @@ sections:
           durante el proceso de análisis.
 
       - title: ¿Puede ayudarnos con capacitaciones a nuestros empleados?
-        content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
+        content: >+
+          Claro que sí. Podemos realizar capacitaciones en diferentes niveles
+          como lo puede ser técnicas de servicio, de ventas, atención al
+          cliente, marketing, manejo de redes sociales y otras según las
+          necesidades del momento.
+
       - title: ¿Qué sucede después de la consultoría?
         content: >-
           No product or service is too technical to learn and understand. Part
