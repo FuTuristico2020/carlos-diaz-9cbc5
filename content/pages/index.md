@@ -49,7 +49,7 @@ sections:
         image_alt: Logo sol y luna
         image_align: center
         image_position: left
-      - image: /images/unab__1_-removebg-preview-d3fd662d.png
+      - image: /images/futuristico-removebg-preview.png
         image_alt: Logo unab
         image_align: center
       - image_alt: Logo 7
