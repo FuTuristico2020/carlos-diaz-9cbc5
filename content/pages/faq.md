@@ -33,11 +33,12 @@ sections:
           necesidades del momento.
 
       - title: ¿Qué sucede después de la consultoría?
-        content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
+        content: >
+          El proceso no acaba al terminar la consultoría. Haremos un control
+          pasado 1 o 2 meses después de la consultoría para verificar si las
+          decisiones tomadas fueron las correctas y para verificar que todo el
+          proceso se está aplicando de la manera correcta para beneficio del
+          cliente.
       - title: How fast can we get started?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
