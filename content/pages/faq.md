@@ -18,11 +18,13 @@ sections:
           trabajo con el sector público, entre muchos más.
 
       - title: ¿Cómo se determina el proceso de la consultoría?
-        content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+        content: >+
+          Siempre se realizará un análisis de la situación actual de la empresa
+          y según las necesidades específicas que el cliente nos indique. En
+          base a ello, se determinará el camino a seguir para darle la mejor
+          solución a los problemas que se busquen resolver y se presenten
+          durante el proceso de análisis.
+
       - title: ¿Puede ayudarnos con capacitaciones a nuestros empleados?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
