@@ -44,7 +44,7 @@ sections:
         image_has_padding: false
         image_width: twenty-five
         image_position: left
-        image: /images/futuristico-removebg-preview.png
+        image: /images/unab__1_-removebg-preview-d3fd662d.png
       - image: /images/sol_y_luna-removebg-preview.png
         image_alt: Logo sol y luna
         image_align: center
