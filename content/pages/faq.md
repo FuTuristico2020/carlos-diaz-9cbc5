@@ -10,7 +10,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: What is your process? ¿
+      - title: ¿Sólo apoyan a hoteles y agencias de viajes?
         content: >+
           Buscamos ayudar a todas las empresas del sector turismo según sean sus
           necesidades. Estas empresas son: hoteles (de todas las
