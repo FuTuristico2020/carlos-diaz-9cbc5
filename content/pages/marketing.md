@@ -19,3 +19,7 @@ Para ello, te puedo ayudar generando un plan de marketing que se ajuste a la eta
 *   Crear estrategias y campañas de marketing de tu proyecto enfocados según tu público, segmento y objetivo a cumplir (ventas, reconocimiento, factor social, etc.). 
 
 *   Mejorar tu diseño de marca.
+
+
+
+![](/images/Logo%20principal.png)
