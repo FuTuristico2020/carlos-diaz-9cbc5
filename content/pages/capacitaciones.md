@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Capacitaciones
 seo:
   title: ''
   description: ''
