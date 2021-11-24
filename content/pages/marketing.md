@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Marketing
 seo:
   title: ''
   description: ''
