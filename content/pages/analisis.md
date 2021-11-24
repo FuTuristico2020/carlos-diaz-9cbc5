@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Análisis y diseño
 seo:
   title: ''
   description: ''
