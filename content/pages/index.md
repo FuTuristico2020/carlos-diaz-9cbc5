@@ -181,7 +181,10 @@ sections:
 
 
       Si deseas conocer más información sobre mis servicios y precios,
-      contáctame llenando el siguiente formulario con tus dato.s
+      contáctame llenando el siguiente formulario con tus datos.
+
+
+      ![](/images/Logo%20complementario-5975cd8a.png)
     content_align: left
     form_position: right
     form_width: fifty
