@@ -93,7 +93,7 @@ sections:
         content: >
           Te ayudaré a diseñar, ejecutar y evaluar tu proyecto turístico. Además
           de hacer un análisis interno para identificar los puntos débiles y
-          buscar soluciones para fortalecer y potenciar tu empresa.
+          buscar soluciones para fortalecer y potenciar tu idea.
         actions:
           - label: Quiero saber más
             url: /analisis
