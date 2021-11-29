@@ -132,7 +132,7 @@ sections:
           Inventario turístico del corredor nororiental
 
           **Fontur-unab,** *2019-2020*
-        image: images/hanson-deck.png
+        image: /images/proyecto_inventario-removebg-preview.png
         image_position: left
         image_width: twenty-five
       - content: |
