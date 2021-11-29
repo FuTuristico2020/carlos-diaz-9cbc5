@@ -155,7 +155,7 @@ sections:
 
 
           **Núcleo turístico de Barichara,** *2020-2021*
-        image: images/gordon-norman.png
+        image: /images/proyecto_redes_sociales-removebg-preview.png
         image_position: left
         image_width: twenty-five
     grid_cols: two
