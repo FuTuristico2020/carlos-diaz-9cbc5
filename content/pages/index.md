@@ -146,7 +146,7 @@ sections:
           Capacitaciones en servicio al cliente y ventas.
 
           **Hotel Dann Carlton,** 2021
-        image: images/eleanor-carr.png
+        image: /images/proyecto_servicio_al_cliente-removebg-preview.png
         image_position: left
         image_width: twenty-five
       - content: >
