@@ -49,11 +49,13 @@ sections:
           aquí](https://futuristico.com.co/)
 
       - title: Apoyas a proyectos públicos y privados de cualquier país?
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+        content: >+
+          Claro que si. Mi trabajo como como consultor me permite poder trabajar
+          apoyando cualquier proyecto turístico publico y privado. El proceso
+          para iniciar trabajo con cada uno es diferente y estudiar la zona en
+          la que se encuentra el proyecto es esencial para garantizar un buen
+          trabajo. Cuentas con mi apoyo en todo el proceso. 
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
