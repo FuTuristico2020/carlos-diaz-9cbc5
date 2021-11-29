@@ -129,6 +129,8 @@ sections:
     subtitle: Experiencia laboral
     grid_items:
       - content: |
+
+
           inventario turístico del corredor nororiental
 
           **Fontur-unab,** *2019-2020*
