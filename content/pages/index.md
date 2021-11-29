@@ -139,7 +139,7 @@ sections:
           Capacitación servicio al cliente.
 
           **Club Campestre, Bucaramanga,** *2020*
-        image: /images/Diseño_sin_título-removebg-preview-a90d0093.png
+        image: /images/proyecto_capacitacion-removebg-preview.png
         image_position: left
         image_width: twenty-five
       - content: |
