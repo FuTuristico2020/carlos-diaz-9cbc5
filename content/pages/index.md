@@ -151,12 +151,12 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: >
+          Análisis de marketing, gestión y manejo de redes sociales y
+          coordinación de eventos.
 
 
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Núcleo turístico de Barichara,** *2020-2021*
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
