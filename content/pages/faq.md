@@ -40,11 +40,14 @@ sections:
           proceso se está aplicando de la manera correcta para beneficio del
           cliente.
       - title: Que es Futurístico?
-        content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
+        content: >+
+          Futurístico nace como un proyecto de generar una nueva comunidad de
+          jóvenes y amantes del turismo en el país y que apoyaran el futuro del
+          turismo ( de allí el nombre). El proyecto se encuentra en una fase de
+          restructuración y estaremos avisando próximamente las nuevas
+          novedades. Si quieres saber un poco mas de futurístico da [clic
+          aquí](https://futuristico.com.co/)
+
       - title: Who handles the design?
         content: >-
           You can choose to provide the design yourself, or I can include a
