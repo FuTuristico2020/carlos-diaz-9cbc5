@@ -39,7 +39,7 @@ sections:
           decisiones tomadas fueron las correctas y para verificar que todo el
           proceso se está aplicando de la manera correcta para beneficio del
           cliente.
-      - title: How fast can we get started?
+      - title: Que es Futurístico?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
           intro video call, an interview, a questionnaire and some back and
