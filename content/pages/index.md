@@ -168,7 +168,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 100
     title: Proyectos
-    background_image_position: right bottom
+    background_image_position: left top
   - type: form_section
     content: >+
       ## Contáctame
