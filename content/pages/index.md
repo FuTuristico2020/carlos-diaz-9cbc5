@@ -164,7 +164,7 @@ sections:
     align: center
     background_color: primary
     background_image: /images/Patrones (2)-75f4f077.png
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     background_image_size: contain
     background_image_opacity: 100
     title: Proyectos
