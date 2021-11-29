@@ -137,12 +137,10 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: |
+          Capacitación servicio al cliente.
 
-
-          **Miles Tone,** *CEO, Studio*
+          **Club Campestre, Bucaramanga,** *2020*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
