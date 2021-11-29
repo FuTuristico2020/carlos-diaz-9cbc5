@@ -39,7 +39,7 @@ sections:
           decisiones tomadas fueron las correctas y para verificar que todo el
           proceso se está aplicando de la manera correcta para beneficio del
           cliente.
-      - title: Que es Futurístico?
+      - title: ¿Qué es Futurístico?
         content: >+
           Futurístico nace como un proyecto de generar una nueva comunidad de
           jóvenes y amantes del turismo en el país y que apoyaran el futuro del
