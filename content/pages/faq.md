@@ -48,7 +48,7 @@ sections:
           novedades. Si quieres saber un poco mas de futurístico da [clic
           aquí](https://futuristico.com.co/)
 
-      - title: A
+      - title: Apoyas a proyectos públicos y privados de cualquier país?
         content: >-
           You can choose to provide the design yourself, or I can include a
           design element to your proposal. I work with several wonderful
