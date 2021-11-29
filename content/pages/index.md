@@ -174,6 +174,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 100
+    title: Proyectos
   - type: form_section
     content: >+
       ## Contáctame
