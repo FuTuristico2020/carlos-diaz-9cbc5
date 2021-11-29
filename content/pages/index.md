@@ -129,9 +129,7 @@ sections:
     subtitle: Experiencia laboral
     grid_items:
       - content: |
-
-
-          inventario turístico del corredor nororiental
+          Inventario turístico del corredor nororiental
 
           **Fontur-unab,** *2019-2020*
         image: images/hanson-deck.png
