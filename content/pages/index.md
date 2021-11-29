@@ -128,12 +128,10 @@ sections:
   - type: grid_section
     subtitle: Experiencia laboral
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: |
+          inventario turístico del corredor nororiental
 
-
-          **Hanson Deck,** *App Developer, Studio*
+          **Fontur-unab,** *2019-2020*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
