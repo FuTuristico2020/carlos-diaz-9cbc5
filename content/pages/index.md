@@ -139,7 +139,7 @@ sections:
           Capacitación servicio al cliente.
 
           **Club Campestre, Bucaramanga,** *2020*
-        image: images/miles-tone.png
+        image: /images/servicio al cliente.jpg
         image_position: left
         image_width: twenty-five
       - content: |
