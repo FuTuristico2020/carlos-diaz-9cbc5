@@ -48,7 +48,7 @@ sections:
           novedades. Si quieres saber un poco mas de futurístico da [clic
           aquí](https://futuristico.com.co/)
 
-      - title: Apoyas a proyectos públicos y privados de cualquier país?
+      - title: ¿Apoyas a proyectos públicos y privados de cualquier país?
         content: >+
           Claro que si. Mi trabajo como como consultor me permite poder trabajar
           apoyando cualquier proyecto turístico publico y privado. El proceso
