@@ -216,7 +216,8 @@ sections:
     background_image_opacity: 100
 seo:
   title: Carlos Diaz Consultor
-  description: The preview of the Personal theme
+  description: |
+    Soy consultor y te ayudaré a desarrollar tu proyecto turístico
   extra:
     - name: 'og:type'
       value: website
