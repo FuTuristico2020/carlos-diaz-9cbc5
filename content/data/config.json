@@ -5,7 +5,7 @@
     "style": "classic",
     "palette": "red",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Personal",
         "logo": "/images/Logo complementario-1c533ccb.png",
