@@ -89,15 +89,6 @@
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://instagram.com/",
-                "style": "primary",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "left",
-                "new_window": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
