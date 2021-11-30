@@ -63,7 +63,7 @@
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/",
-                "style": "secondary",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "left",
