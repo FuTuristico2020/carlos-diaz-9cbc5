@@ -160,7 +160,7 @@ sections:
         image: /images/proyecto_redes_sociales-removebg-preview.png
         image_position: left
         image_width: twenty-five
-        image_alt: 'Foto análisis '
+        image_alt: Foto análisis de marketing
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
