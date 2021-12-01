@@ -134,6 +134,7 @@ sections:
         image: /images/proyecto_inventario-removebg-preview.png
         image_position: left
         image_width: twenty-five
+        image_alt: 'foto inventario tur{i'
       - content: |
           Capacitación servicio al cliente.
 
