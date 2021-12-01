@@ -26,7 +26,6 @@ sections:
     background_image_position: left top
   - type: grid_section
     title: Empresas y proyectos en los que he trabajado
-    subtitle: Who I work with
     align: center
     grid_items:
       - image: /images/casa_maestra-removebg-preview-6cd97b21.png
