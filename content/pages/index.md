@@ -49,7 +49,7 @@ sections:
         image_align: center
         image_position: left
       - image: /images/futuristico-removebg-preview.png
-        image_alt: Logo futuría
+        image_alt: Logo futurístico
         image_align: center
       - image_alt: Logo 7
         image_align: center
