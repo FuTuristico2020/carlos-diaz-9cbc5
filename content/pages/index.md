@@ -38,7 +38,7 @@ sections:
         image_alt: Logo Dann Carlton
         image_align: center
         image_position: top
-      - image_alt: Logo futurístico
+      - image_alt: Logo unab
         image_align: center
         image_has_padding: false
         image_width: twenty-five
