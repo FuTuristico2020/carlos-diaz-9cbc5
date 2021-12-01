@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# ![](/images/quien%20soy%20\(1\)-78850484.png)
+# ![](/images/p%C3%A1g%20quien%20soy.png)
 
 El amor al turismo me ha llevado a conocer y a entender la complejidad que tiene esta industria a diferencia del resto. Por esto me gusta ayudar a las personas que quieran ser parte del turismo a tener éxito es sus proyectos, usando diferentes herramientas de análisis y marketing.
 
