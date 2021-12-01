@@ -28,7 +28,8 @@
                 "style": "secondary"
             }
         ],
-        "has_secondary_nav": false
+        "has_secondary_nav": false,
+        "logo_alt": "logo C"
     },
     "footer": {
         "logo": "/images/Diseño sin título (2).png",
