@@ -101,7 +101,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/Data analytics _Monochromatic.png
-        image_alt: 'img '
+        image_alt: img análisis y diseño
         media_position: left
         media_width: sixty
         align: left
