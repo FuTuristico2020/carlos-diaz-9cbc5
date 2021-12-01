@@ -118,7 +118,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/Online lesson _Monochromatic.png
-        image_alt: Feature 3 illustration
+        image_alt: img capacitaciones
         media_position: right
         media_width: sixty
     feature_padding_vert: large
