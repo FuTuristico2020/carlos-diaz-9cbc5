@@ -149,6 +149,7 @@ sections:
         image: /images/proyecto_servicio_al_cliente-removebg-preview.png
         image_position: left
         image_width: twenty-five
+        image_alt: Foto capacitaciones
       - content: >
           Análisis de marketing, gestión y manejo de redes sociales y
           coordinación de eventos.
