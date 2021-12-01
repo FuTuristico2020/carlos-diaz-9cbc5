@@ -83,7 +83,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/Marketing_Monochromatic.png
-        image_alt: Feature 1 illustration
+        image_alt: img marketing
         media_position: right
         media_width: sixty
         align: left
