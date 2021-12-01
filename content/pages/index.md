@@ -142,7 +142,7 @@ sections:
         image: /images/proyecto_capacitacion-removebg-preview.png
         image_position: left
         image_width: twenty-five
-        image_alt: Foto
+        image_alt: Foto servicio al cliente
       - content: |
           Capacitaciones en servicio al cliente y ventas.
 
