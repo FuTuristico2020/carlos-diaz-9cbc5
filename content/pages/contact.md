@@ -45,6 +45,7 @@ sections:
         name: Your name
         label: Nombre
         is_required: true
+        default_value: Yo
       - input_type: email
         name: email
         label: Email
