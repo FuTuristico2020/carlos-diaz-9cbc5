@@ -7,7 +7,7 @@ sections:
       - label: Contáctame
         url: /contact
         style: primary
-    image: /images/Diseño sin título (4).png
+    image: /images/20211205_140638-removebg-preview.png
     image_alt: Foto Carlos Diaz
     media_position: right
     media_width: fifty
