@@ -15,7 +15,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/Patrones (2)-e295b01b.png
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 75
