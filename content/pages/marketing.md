@@ -20,3 +20,4 @@ Para ello, te puedo ayudar generando un plan de marketing que se ajuste a la eta
 
 *   Mejorar tu diseño de marca.
 
+![](/images/p%C3%A1g%20quien%20soy%20\(3\).png)
