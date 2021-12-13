@@ -25,9 +25,4 @@ Como profesor de temas de turismo y hotelería, he tenido la posibilidad de aume
 
 Podemos diseñar el curso según las necesidades que ustedes consideren
 
-
-
-
-
-
-
+![](/images/p%C3%A1g%20quien%20soy%20\(4\).png)
