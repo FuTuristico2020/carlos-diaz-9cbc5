@@ -77,16 +77,6 @@
                 "icon": "linkedin",
                 "icon_position": "left",
                 "new_window": true
-            },
-            {
-                "label": "TikTok",
-                "url": "tiktok.com/@carlosdiazconsultor",
-                "style": "primary",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },
