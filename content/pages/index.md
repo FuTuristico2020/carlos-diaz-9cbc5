@@ -111,7 +111,7 @@ sections:
           inglés técnico orientado al servicio, técnicas de ventas y marketing. 
         actions:
           - label: Quiero saber más
-            url: /
+            url: /capacitaciones
             style: primary
             has_icon: true
             icon: arrow-right
