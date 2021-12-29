@@ -47,7 +47,7 @@ export default class Icon extends React.Component {
                 );
             case 'vimeo':
                 return (
-                    <div className="tiktok"></div>
+                    <div className="icon tiktok"></div>
                 );
           
             default:
