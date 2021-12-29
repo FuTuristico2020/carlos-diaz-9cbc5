@@ -48,7 +48,7 @@ export default class Icon extends React.Component {
             case 'vimeo':
                 return (
                     <g className="pathIcon">
-                        <svg className="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="" /></svg>
+                        <svg className="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M150 0 L75 200 L225 200 Z" /></svg>
                     </g>
                 );
           
