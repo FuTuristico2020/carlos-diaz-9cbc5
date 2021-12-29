@@ -81,7 +81,7 @@
             {
                 "label": "Titktok",
                 "url": "#",
-                "style": "secondary",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "vimeo",
                 "icon_position": "right",
