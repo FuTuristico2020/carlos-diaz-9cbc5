@@ -47,7 +47,7 @@ export default class Icon extends React.Component {
                 );
             case 'vimeo':
                 return (
-                    
+                    <g
                 );
           
             default:
