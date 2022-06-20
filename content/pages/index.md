@@ -2,8 +2,11 @@
 title: Inicio
 sections:
   - type: hero_section
-    title: 'Hola, soy Carlos Diaz y soy consultor turístico'
+    title: 'Hola soy Carlos Díaz, Doctor en Turismo y Administrador de empresas Turísticas y Hoteleras'
     actions:
+      - label: Contáctame
+        url: /contact
+        style: primary
       - label: Contáctame
         url: /contact
         style: primary
@@ -20,8 +23,7 @@ sections:
     background_image_opacity: 75
     has_border: true
     subtitle: >-
-      Te ayudaré a potenciar ese proyecto o emprendimiento turístico que tanto
-      te apasiona. Cuenta conmigo para lograrlo.
+      Soy Experto en temas de Turismo y Hotelería y puedo ayudarte a potenciar tu negocio.
     background_image_position: left top
   - type: grid_section
     title: Empresas y proyectos en los que he trabajado
