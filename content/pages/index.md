@@ -7,8 +7,8 @@ sections:
       - label: Contáctame
         url: /contact
         style: primary
-      - label: Contáctame
-        url: /contact
+      - label: Acerca de mí
+        url: /about
         style: primary
     image: /images/foto presentación.png
     image_alt: Foto Carlos Diaz
